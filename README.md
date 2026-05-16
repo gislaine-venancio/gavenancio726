@@ -1,115 +1,69 @@
-# 👩‍💻 QA Engineer | Software Quality Assurance Specialist
+# Gislaine Venancio — QA Engineer
 
-![QA](https://img.shields.io/badge/QA-Engineer-blue?style=for-the-badge)
-![Testing](https://img.shields.io/badge/Testing-Quality-green?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Python-Automation-yellow?style=for-the-badge)
-![API](https://img.shields.io/badge/API-Testing-orange?style=for-the-badge)
+![Manual Testing](https://img.shields.io/badge/Manual-Testing-blue?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API-Postman-orange?style=for-the-badge)
+![Performance](https://img.shields.io/badge/Performance-JMeter-red?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Pytest-yellow?style=for-the-badge)
 ![Agile](https://img.shields.io/badge/Agile-Scrum-purple?style=for-the-badge)
+![Ireland](https://img.shields.io/badge/Based_in-Ireland-green?style=for-the-badge)
 
 ---
 
-## 👋 About Me
+## 👋 Hi, I'm Gislaine
 
-Software Quality Assurance Engineer with **1+ year of QA experience** and a strong background in **quality systems, compliance, and regulated industries** (Healthcare, Manufacturing, Food Safety, and HSE).
+I'm a QA Engineer based in **Cork, Ireland 🇮🇪**, with a background that
+combines software testing with over **10 years of experience in quality
+systems, risk analysis, and compliance** in regulated industries —
+Healthcare, Manufacturing, and Food Safety.
 
-Currently based in **Ireland 🇮🇪**, working in regulated healthcare operations and continuously growing in **software testing, automation, and QA engineering practices**.
+That background is what shapes how I approach software quality:
+I don't just find bugs — I think about **risk, process, and prevention**.
 
-I focus on building quality through a combination of **structured testing, risk awareness, and technical validation**.
-
----
-
-## 🧪 QA Testing Expertise (What I Do)
-
-### 🔍 Manual Testing
-I validate software behavior from the end-user perspective by designing and executing structured test cases.  
-Focus areas:
-- Functional testing (features behave as expected)
-- Regression testing (no breaking changes after updates)
-- Exploratory testing (discovering hidden issues)
-- UI/UX validation
+Currently building my QA portfolio while working in a regulated
+healthcare environment and actively seeking my first dedicated
+**QA Engineer role in Ireland or remote**.
 
 ---
 
-### 🌐 API Testing
-I ensure backend services are reliable, stable, and return correct data.  
-Focus areas:
-- REST API validation using Postman
-- Status code & response verification
-- Negative testing (invalid inputs, edge cases)
-- Authentication & authorization checks
+## 🧪 What I Work With
+
+| Area | Tools & Skills |
+|---|---|
+| Manual & Regression Testing | Test case design, exploratory testing, Jira |
+| API Testing | Postman, REST APIs, status codes, negative testing |
+| Performance Testing | JMeter, load testing, response time analysis |
+| Data Validation | SQL, MySQL, PostgreSQL |
+| Test Automation (growing) | Python, Pytest |
+| Version Control | Git, GitHub |
+| Methodologies | Agile, Scrum, STLC, SDLC |
 
 ---
 
-### 🧾 SQL & Data Validation
-I verify data integrity between frontend, backend, and database layers.  
-Focus areas:
-- SQL queries for validation (MySQL / PostgreSQL)
-- Data consistency checks
-- Backend troubleshooting support
-- Record-level validation
+## 📂 Projects in This Portfolio
+
+| Project | Type | Tools |
+|---|---|---|
+| 🔗 [Project name] | API Testing | Postman |
+| 🔗 [Project name] | Manual Testing | Jira, Test Cases |
+| 🔗 [Project name] | Performance Testing | JMeter |
+| 🔗 [Project name] | SQL Data Validation | MySQL |
+
+> More projects being added regularly.
 
 ---
 
-### 🐞 Defect Management
-I work closely with development teams to ensure issues are clearly identified, tracked, and resolved.  
-Focus areas:
-- Bug reporting with clear reproduction steps
-- Severity & priority classification
-- Lifecycle tracking in Agile environments
-- Collaboration with developers via Git workflows
+## 🎯 What Makes Me Different
 
----
+Most QA Engineers come from a pure tech background.
+I come from **10+ years working inside quality systems** —
+writing procedures, conducting audits, investigating root causes,
+and ensuring compliance in regulated environments.
 
-### ⚡ Performance Testing
-I evaluate system stability under load and stress conditions.  
-Focus areas:
-- Load testing with JMeter
-- Identifying performance bottlenecks
-- Response time analysis
-- System scalability validation
-
----
-
-### 🐍 Test Automation (Growing Area)
-I support and expand automation initiatives using Python.  
-Focus areas:
-- API automation concepts
-- Pytest-based test structure
-- Reusable test utilities
-- CI-oriented thinking (Git/GitHub workflows)
-
----
-
-## ⚙️ Technical Stack
-
-**Languages:** Python | JavaScript | PHP | C  
-**Testing Tools:** Postman | JMeter | Jira  
-**Databases:** MySQL | PostgreSQL | MongoDB  
-**Frameworks:** Django | FastAPI  
-**Data Tools:** SQL | Excel | Power BI  
-**Version Control:** Git | GitHub  
-**Cloud (basic):** AWS  
-
----
-
-## 🧠 QA Mindset
-
-- Think in terms of **risk and impact**
-- Validate systems beyond the UI layer
-- Focus on **prevention instead of detection**
-- Combine **technical + process quality thinking**
-- Collaborate early with development teams
-
----
-
-## 🎯 Focus Areas
-
-Currently focused on growing into:
-
-- QA Engineer roles in Ireland / EU 🇪🇺  
-- Stronger API & backend testing skills  
-- Test automation with Python  
-- CI/CD-aware QA workflows  
+That means I bring to software testing:
+- A natural **risk-based thinking** approach
+- Experience with **CAPA, audits, and process documentation**
+- Understanding of **regulated environments** (Healthcare, ISO standards)
+- Strong focus on **prevention, not just detection**
 
 ---
 
@@ -122,6 +76,10 @@ Currently focused on growing into:
 
 ---
 
-## 📫 Contact
+## 📫 Let's Connect
 
-Open to QA Engineer / Software Testing opportunities in Europe.
+💼 [LinkedIn](https://www.linkedin.com/in/gislaine-venancio)  
+📧 gav.venancio@outlook.com 
+
+Open to **QA Engineer** and **Software Tester** opportunities
+in Ireland or remote within Europe.
