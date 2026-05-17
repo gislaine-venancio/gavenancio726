@@ -43,7 +43,7 @@ healthcare environment and actively seeking my first dedicated
 
 | Project | Type | Tools |
 |---|---|---|
-| 🔗 [Project name] | API Testing | Postman |
+| 🔗 [ServeRest API Testing](https://github.com/gislaine-venancio/ServeRest_API-testing) | API Testing | Postman, Jira, Excel |
 | 🔗 [Project name] | Manual Testing | Jira, Test Cases |
 | 🔗 [Project name] | Performance Testing | JMeter |
 | 🔗 [Project name] | SQL Data Validation | MySQL |
@@ -79,7 +79,7 @@ That means I bring to software testing:
 ## 📫 Let's Connect
 
 💼 [LinkedIn](https://www.linkedin.com/in/gislaine-venancio)  
-📧 gav.venancio@outlook.com 
+📧 gav.venancio@outlook.com  
 
 Open to **QA Engineer** and **Software Tester** opportunities
 in Ireland or remote within Europe.
