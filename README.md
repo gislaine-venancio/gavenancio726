@@ -6,6 +6,7 @@
 ![API Testing](https://img.shields.io/badge/API-Postman-orange?style=for-the-badge)
 ![Performance](https://img.shields.io/badge/Performance-JMeter-red?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-Pytest-yellow?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws)
 ![Agile](https://img.shields.io/badge/Agile-Scrum-purple?style=for-the-badge)
 ![Ireland](https://img.shields.io/badge/Based_in-Ireland-green?style=for-the-badge)
 
@@ -13,17 +14,12 @@
 
 ## 👋 Hi, I'm Gislaine
 
-I'm a QA Engineer based in **Cork, Ireland 🇮🇪**, with a background that
-combines software testing with over **10 years of experience in quality
-systems, risk analysis, and compliance** in regulated industries —
-Healthcare, Manufacturing, and Food Safety.
+I'm a QA Engineer based in **Cork, Ireland 🇮🇪**, with a background that combines software testing with over **10 years of experience in quality systems, risk analysis, and compliance** in regulated industries — Healthcare, Manufacturing, and Food Safety.
 
 That background is what shapes how I approach software quality:
 I don't just find bugs — I think about **risk, process, and prevention**.
 
-Continuously expanding my QA portfolio while working in a regulated
-healthcare environment and actively seeking my first dedicated
-**QA Engineer role in Ireland or remote**.
+Continuously expanding my QA portfolio while working in a regulated healthcare environment and actively seeking my next **QA Engineer role in Ireland or remote**.
 
 ---
 
@@ -33,9 +29,10 @@ healthcare environment and actively seeking my first dedicated
 |---|---|
 | Manual & Regression Testing | Test case design, exploratory testing, Jira |
 | API Testing | Postman, REST APIs, status codes, negative testing |
+| Test Automation | Python, Pytest, session fixtures, HTML reports |
 | Performance Testing | JMeter, load testing, response time analysis |
 | Data Validation | SQL, MySQL, PostgreSQL |
-| Test Automation (growing) | Python, Pytest |
+| Cloud | AWS Cloud Foundations, AWS Cloud Architecting |
 | Version Control | Git, GitHub |
 | Methodologies | Agile, Scrum, STLC, SDLC |
 
@@ -43,12 +40,13 @@ healthcare environment and actively seeking my first dedicated
 
 ## 📂 Projects in This Portfolio
 
-| Project | Type | Tools |
-|---|---|---|
-| 🔗 [ServeRest API Testing](https://github.com/gislaine-venancio/ServeRest_API-testing) | Manual API Testing | Postman, Jira, Excel |
-| 🔗 [ServeRest Automation Pytest](https://github.com/gislaine-venancio/ServeRest_Automation_Pytest) | Test Automation | Python, Pytest |
-| 🔗 [Project name] | Performance Testing | JMeter |
-| 🔗 [Project name] | SQL Data Validation | MySQL |
+| Project | Type | Highlights | Tools |
+|---|---|---|---|
+| 🔗 [ServeRest API Testing](https://github.com/gislaine-venancio/ServeRest_API-testing) | Manual API Testing | 44 test cases · 3 bugs tracked in Jira | Postman, Jira, Excel |
+| 🔗 [ServeRest Automation Pytest](https://github.com/gislaine-venancio/ServeRest_Automation_Pytest) | Test Automation | 37 automated tests · 0 failures · HTML report | Python, Pytest |
+| 🚧 Library Management API *(In Progress)* | Full Stack + QA | REST API with book loans, fines, email notifications and user authentication | Python, Django, Pytest |
+| 🚧 Performance Testing Project | Performance Testing | In Progress | JMeter |
+| 🚧 SQL Data Validation Project | Data Validation | In Progress | MySQL, PostgreSQL |
 
 > More projects being added regularly.
 
@@ -62,6 +60,7 @@ writing procedures, conducting audits, investigating root causes,
 and ensuring compliance in regulated environments.
 
 That means I bring to software testing:
+
 - A natural **risk-based thinking** approach
 - Experience with **CAPA, audits, and process documentation**
 - Understanding of **regulated environments** (Healthcare, ISO standards)
@@ -71,17 +70,16 @@ That means I bring to software testing:
 
 ## 🌍 Languages
 
-🇧🇷 Portuguese — Native  
-🇬🇧 English — Fluent  
-🇮🇹 Italian — Intermediate  
-🇪🇸 Spanish — Basic  
+🇧🇷 Portuguese — Native
+🇬🇧 English — Fluent
+🇮🇹 Italian — Intermediate
+🇪🇸 Spanish — Basic
 
 ---
 
 ## 📫 Let's Connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/gislaine-venancio)  
-📧 gav.venancio@outlook.com  
+💼 [LinkedIn](https://www.linkedin.com/in/gislaine-venancio)
+📧 gav.venancio@outlook.com
 
-Open to **QA Engineer** and **Software Tester** opportunities
-in Ireland or remote within Europe.
+Open to **QA Engineer** and **Software Tester** opportunities in Ireland or remote within Europe.
